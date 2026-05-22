@@ -1,0 +1,6 @@
+{
+  "name": "珍珠奶茶 POS",
+  "description": "專為手機設計的珍珠奶茶 POS 系統，具備完整飲品客製化、購物車、結帳與銷售數據統計功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
